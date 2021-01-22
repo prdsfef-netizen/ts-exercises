@@ -1,0 +1,14 @@
+let a: number = 9999;
+let b: number = 529.196;
+let c: string = "Progamming Hub";
+let d: boolean = false;
+let e: undefined = undefined;
+let f: null = null;
+let g: void = undefined;
+/* let num: void = 1; */
+let h: any = null;
+let i: any = 259;
+let j: any = 159.425;
+let k: any = "Programming Hub";
+let l: any = undefined;
+let m: any = true;
